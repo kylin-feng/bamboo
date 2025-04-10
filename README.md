@@ -28,6 +28,9 @@ Bamboo 是一个开源的智能Agent框架，如同竹子一样具有坚韧、�
 - **🌱 可扩展性**：设计易于扩展，便于添加新功能和集成第三方服务
 - **🔄 自适应学习**：能够从交互中学习和改进
 
+<p align="center">
+  <img src="https://github.com/kylin-feng/bamboo/blob/main/jiagou.png" alt="jiagou">
+</p>
 ## 🚀 快速开始
 
 ### 安装
