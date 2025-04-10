@@ -4,7 +4,7 @@
 一个灵活、强大且可扩展的开源AI智能Agent框架
 
 <p align="center">
-  <img src="https://github.com/kylin-feng/bamboo/blob/main/bamboo.png" alt="Bamboo Logo" width="200" height="200">
+  <img src="https://github.com/kylin-feng/bamboo/blob/main/bamboo.png" alt="Bamboo Logo">
 </p>
 
 <p align="center">
